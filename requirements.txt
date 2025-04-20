@@ -1,0 +1,9 @@
+gymnasium==0.28.1  
+stable-baselines3==2.2.1  
+streamlit==1.27.0  
+matplotlib==3.7.2  
+torch==2.0.1  
+imageio==2.31.1  
+imageio-ffmpeg==0.4.8  
+numpy==1.26.4
+
